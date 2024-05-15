@@ -4,7 +4,7 @@ describe('Pruebas para docker', () => {
 
     });
 
-    test('Prueba 2.0', () => {
+    test('Prueba 2', () => {
 
 
     });
