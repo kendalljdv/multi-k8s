@@ -22,7 +22,7 @@ function App() {
           </a>
 
           <Link to="/"> Home</Link>
-          <Link to="/otherpage"> Other Pages</Link>
+          <Link to="/otherpage"> Other Pagess</Link>
         </div>
         <div>
           <Routes>
